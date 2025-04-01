@@ -1,0 +1,102 @@
+.navbar-nav .nav-item .nav-link {
+    color: rgb(173, 169, 169);
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: rgb(72, 9, 148);
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: aliceblue;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+    
+  }
+  .background-color{
+    display: flex;
+    flex-direction: row;
+    width: 2fr;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+   
+    background-image: url(
+      https://images.pexels.com/photos/6045035/pexels-photo-6045035.jpeg?auto=compress&cs=tinysrgb&w=600
+      );
+    background-repeat: no-repeat ;
+    background-size: 100%;
+    
+
+    
+
+    
+    
+  }
+  .bottom{
+    width: 30%;
+    height: 350px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+    background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.18) ;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+
+    
+  }
+  .bottom1{
+    width: 30%;
+    height: 350px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.18) ;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+  }
+  .bottom2 {
+    width: 30%;
+    height: 350px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+   background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.18) ;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+   
+   
+   
+ }
+ .bhead{
+  font-size: 50px;
+  font-style: italic;
+  font-family: ;
+ }
+  
+    
+    
+  
+
+  
+
